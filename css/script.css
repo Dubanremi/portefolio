@@ -1,0 +1,52 @@
+p{
+  color:#FFFFFF;
+  font-family: monospace;
+  font-size:14px;
+}
+#menu{
+  padding:0.05px 0;
+  margin:-0.6%;
+  border-radius: 5px 5px 0px 0px;
+  background: linear-gradient(#3f3e3a, #3c3b37);
+
+}
+#menud{
+  position: relative;
+  left:2%;
+  Font-Weight: Bold;
+}
+#forcebrute,#plage_ip,#fbhide,#iphide{
+  display:none;
+}
+#redu{
+  color:#5f5e58;
+}
+#croix{
+  position:relative;
+  color:#df501e;
+
+
+}
+#agra{
+color:#5f5e58;
+}
+#fbhide,#iphide{
+  position :absolute;
+  width: 30%;
+  top:7%;
+  right: 0;
+  border-style: solid;
+}
+i{
+  position: relative;
+  left:1%;
+}
+a{
+  color:#FFFFFF;
+}
+form{
+  background-color:#300a24;
+}
+body{
+  background-color:#300a24;
+}

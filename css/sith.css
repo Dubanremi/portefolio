@@ -1,0 +1,14 @@
+div{
+  position: absolute;
+  display:block;
+  height: 75%;
+  width: 30%;
+  border-style:solid;
+  margin-top: 5%;
+  margin-left: 5%;
+  text-align: center;
+
+}
+#sith2{
+  left:50%;
+}

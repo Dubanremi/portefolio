@@ -1,0 +1,130 @@
+body > div >div {
+  position:relative;
+  width: 45vw;
+  height: 50vh;
+  display: inline-block;
+
+}
+body{
+  overflow: hidden;
+background-color:#3f3e3a;
+}
+
+#sith{
+
+  border-bottom:solid;
+  border-right: solid;
+  border-color: #300a24;
+}
+#sith:hover{
+  background-color:#C0C0C0;
+  opacity: 0.85;
+}
+
+#IE{
+  position:absolute;
+  left:30%;
+  top:40%;
+  opacity: 0;
+}
+#sith:hover #IE{
+  opacity: 1;
+}
+#cv{
+
+  border-bottom: solid;
+  border-left:solid;
+  border-color: #300a24;
+
+}
+#cv:hover{
+  background-color:#C0C0C0;
+  opacity: 0.85;
+}
+#cv:hover #Cuv{
+  opacity: 1;
+}
+#Cuv{
+  position : absolute;
+  left:35%;
+  top:40%;
+  opacity: 0;
+}
+#git{
+  border-top:solid;
+  border-right:solid;
+  border-color: #300a24;
+}
+#ttt{
+  color:#300a24;
+}
+#git:hover{
+  background-color:#C0C0C0;
+  opacity: 0.85;
+}
+#git:hover #hub{
+  opacity:1;
+}
+#hub{
+  position:absolute;
+  left:30%;
+  top:40%;
+  opacity: 0;
+}
+#script{
+  border-top:solid;
+  border-left:solid;
+  border-color: #300a24;
+}
+#script:hover{
+  background-color:#C0C0C0;
+  opacity: 0.85;
+}
+#php{
+  position:absolute;
+  left:30%;
+  top:40%;
+  opacity: 0;
+}
+#script:hover #php{
+  opacity: 1;
+}
+a{
+  color:black;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+#ie,#sithe,#gith,#sc{
+  background-color:#696969;
+  display:block;
+  border-style:solid;
+  width: 20%;
+  height: 20%;
+  text-align: center;
+}
+
+#ie{
+  position:relative;
+  top:78.5%;
+  left:78.9%;
+  border-top-left-radius: 150%;
+}
+
+#sithe{
+  position: relative;
+  top:78.5%;
+  border-top-right-radius: 150%;
+}
+
+#gith{
+  position: relative;
+  left:78.9%;
+  border-bottom-left-radius: 150%;
+}
+#sc{
+  position: relative;
+  border-bottom-right-radius: 150%;
+}*/

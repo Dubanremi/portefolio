@@ -1,0 +1,23 @@
+body>div{
+    margin-top: 3vh;
+    position:relative;
+    display: block;
+      height: auto;
+
+}
+body >div >div >div{
+  border-style:solid;
+  position:relative;
+  display: inline-block;
+  width: 35vw;
+  height: 38vh;
+
+}
+h2{
+  text-align: center;
+}
+body > div > div  {
+  display: none;
+  width: 100%;
+  text-align: center;
+}

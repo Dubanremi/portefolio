@@ -1,0 +1,38 @@
+img{
+  width:20%;
+  height:20%;
+}
+h1{
+  position : absolute;
+  top:0;
+  left:70vh;
+}
+#float,#contenant,#general{
+  position: relative;
+  display:block;
+
+}
+#parcours,#Exp,#divers{
+  position:absolute;
+  border-style: solid;
+  border-color: #B0C4DE;
+  display: block;
+}
+#float{
+  float:right;
+}
+#general{
+  top:100%;
+  width:99%;
+}
+#parcours{
+  left:45%;
+}
+#Exp{
+  top:0;
+  left:15%;
+  height: auto;
+}
+#divers{
+  left:75%;
+}
